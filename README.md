@@ -2,7 +2,7 @@
 
 bio.txt\
 hobby.txt\
-study.txt\
+study.txt
 
 # Facebook Link
 
